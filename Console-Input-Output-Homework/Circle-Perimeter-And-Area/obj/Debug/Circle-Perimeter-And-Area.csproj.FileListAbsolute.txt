@@ -1,0 +1,6 @@
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Circle-Perimeter-And-Area\bin\Debug\Circle-Perimeter-And-Area.exe.config
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Circle-Perimeter-And-Area\bin\Debug\Circle-Perimeter-And-Area.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Circle-Perimeter-And-Area\bin\Debug\Circle-Perimeter-And-Area.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Circle-Perimeter-And-Area\obj\Debug\Circle-Perimeter-And-Area.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Circle-Perimeter-And-Area\obj\Debug\Circle-Perimeter-And-Area.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Circle-Perimeter-And-Area\obj\Debug\Circle-Perimeter-And-Area.csprojResolveAssemblyReference.cache

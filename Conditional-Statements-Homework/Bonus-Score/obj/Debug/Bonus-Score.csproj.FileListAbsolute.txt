@@ -1,0 +1,5 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Bonus-Score\bin\Debug\Bonus-Score.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Bonus-Score\bin\Debug\Bonus-Score.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Bonus-Score\bin\Debug\Bonus-Score.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Bonus-Score\obj\Debug\Bonus-Score.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Bonus-Score\obj\Debug\Bonus-Score.pdb

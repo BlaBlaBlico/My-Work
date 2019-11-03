@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Exercise\Printing-To-The-Console\bin\Debug\Printing-To-The-Console.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Exercise\Printing-To-The-Console\bin\Debug\Printing-To-The-Console.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Exercise\Printing-To-The-Console\bin\Debug\Printing-To-The-Console.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Exercise\Printing-To-The-Console\obj\Debug\Printing-To-The-Console.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Exercise\Printing-To-The-Console\obj\Debug\Printing-To-The-Console.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Exercise\Printing-To-The-Console\obj\Debug\Printing-To-The-Console.pdb

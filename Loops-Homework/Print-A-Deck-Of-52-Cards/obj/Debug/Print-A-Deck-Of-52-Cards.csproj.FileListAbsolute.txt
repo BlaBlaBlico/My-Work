@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Print-A-Deck-Of-52-Cards\bin\Debug\Print-A-Deck-Of-52-Cards.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Print-A-Deck-Of-52-Cards\bin\Debug\Print-A-Deck-Of-52-Cards.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Print-A-Deck-Of-52-Cards\bin\Debug\Print-A-Deck-Of-52-Cards.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Print-A-Deck-Of-52-Cards\obj\Debug\Print-A-Deck-Of-52-Cards.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Print-A-Deck-Of-52-Cards\obj\Debug\Print-A-Deck-Of-52-Cards.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Print-A-Deck-Of-52-Cards\obj\Debug\Print-A-Deck-Of-52-Cards.pdb

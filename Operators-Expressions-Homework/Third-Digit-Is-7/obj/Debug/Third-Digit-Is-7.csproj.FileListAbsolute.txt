@@ -1,0 +1,5 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Third-Digit-Is-7\bin\Debug\Third-Digit-Is-7.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Third-Digit-Is-7\bin\Debug\Third-Digit-Is-7.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Third-Digit-Is-7\bin\Debug\Third-Digit-Is-7.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Third-Digit-Is-7\obj\Debug\Third-Digit-Is-7.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Third-Digit-Is-7\obj\Debug\Third-Digit-Is-7.pdb

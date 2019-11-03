@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Min-Max-Sum-And-Average-Of-N-Numbers\bin\Debug\Min-Max-Sum-And-Average-Of-N-Numbers.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Min-Max-Sum-And-Average-Of-N-Numbers\bin\Debug\Min-Max-Sum-And-Average-Of-N-Numbers.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Min-Max-Sum-And-Average-Of-N-Numbers\bin\Debug\Min-Max-Sum-And-Average-Of-N-Numbers.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Min-Max-Sum-And-Average-Of-N-Numbers\obj\Debug\Min-Max-Sum-And-Average-Of-N-Numbers.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Min-Max-Sum-And-Average-Of-N-Numbers\obj\Debug\Min-Max-Sum-And-Average-Of-N-Numbers.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Min-Max-Sum-And-Average-Of-N-Numbers\obj\Debug\Min-Max-Sum-And-Average-Of-N-Numbers.pdb

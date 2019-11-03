@@ -1,0 +1,5 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Four-Digit-Number\bin\Debug\Four-Digit-Number.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Four-Digit-Number\bin\Debug\Four-Digit-Number.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Four-Digit-Number\bin\Debug\Four-Digit-Number.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Four-Digit-Number\obj\Debug\Four-Digit-Number.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Four-Digit-Number\obj\Debug\Four-Digit-Number.pdb

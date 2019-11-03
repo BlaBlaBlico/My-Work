@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Print-Information\bin\Debug\Print-Information.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Print-Information\bin\Debug\Print-Information.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Print-Information\bin\Debug\Print-Information.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Print-Information\obj\Debug\Print-Information.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Print-Information\obj\Debug\Print-Information.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Print-Information\obj\Debug\Print-Information.pdb

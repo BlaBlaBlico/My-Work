@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
+C:\Users\chefo\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.csprojResolveAssemblyReference.cache

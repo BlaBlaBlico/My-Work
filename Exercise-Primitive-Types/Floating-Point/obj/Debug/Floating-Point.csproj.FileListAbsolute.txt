@@ -1,0 +1,5 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\Floating-Point\bin\Debug\Floating-Point.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\Floating-Point\bin\Debug\Floating-Point.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\Floating-Point\bin\Debug\Floating-Point.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\Floating-Point\obj\Debug\Floating-Point.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\Floating-Point\obj\Debug\Floating-Point.pdb

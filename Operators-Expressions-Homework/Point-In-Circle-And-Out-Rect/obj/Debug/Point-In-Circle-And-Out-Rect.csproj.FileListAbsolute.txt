@@ -1,0 +1,6 @@
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Point-In-Circle-And-Out-Rect\bin\Debug\Point-In-Circle-And-Out-Rect.exe.config
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Point-In-Circle-And-Out-Rect\bin\Debug\Point-In-Circle-And-Out-Rect.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Point-In-Circle-And-Out-Rect\bin\Debug\Point-In-Circle-And-Out-Rect.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Point-In-Circle-And-Out-Rect\obj\Debug\Point-In-Circle-And-Out-Rect.csprojResolveAssemblyReference.cache
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Point-In-Circle-And-Out-Rect\obj\Debug\Point-In-Circle-And-Out-Rect.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Point-In-Circle-And-Out-Rect\obj\Debug\Point-In-Circle-And-Out-Rect.pdb

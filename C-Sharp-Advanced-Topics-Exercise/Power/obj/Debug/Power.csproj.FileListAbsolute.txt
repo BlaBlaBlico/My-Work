@@ -1,0 +1,5 @@
+c:\users\chefo\documents\visual studio 2013\Projects\C-Sharp-Advanced-Topics-Exercise\Power\bin\Debug\Power.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\C-Sharp-Advanced-Topics-Exercise\Power\bin\Debug\Power.exe
+c:\users\chefo\documents\visual studio 2013\Projects\C-Sharp-Advanced-Topics-Exercise\Power\bin\Debug\Power.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\C-Sharp-Advanced-Topics-Exercise\Power\obj\Debug\Power.exe
+c:\users\chefo\documents\visual studio 2013\Projects\C-Sharp-Advanced-Topics-Exercise\Power\obj\Debug\Power.pdb

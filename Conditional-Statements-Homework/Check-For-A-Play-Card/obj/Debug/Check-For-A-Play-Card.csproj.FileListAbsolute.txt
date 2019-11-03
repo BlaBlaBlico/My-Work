@@ -1,0 +1,5 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Check-For-A-Play-Card\bin\Debug\Check-For-A-Play-Card.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Check-For-A-Play-Card\bin\Debug\Check-For-A-Play-Card.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Check-For-A-Play-Card\bin\Debug\Check-For-A-Play-Card.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Check-For-A-Play-Card\obj\Debug\Check-For-A-Play-Card.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Check-For-A-Play-Card\obj\Debug\Check-For-A-Play-Card.pdb

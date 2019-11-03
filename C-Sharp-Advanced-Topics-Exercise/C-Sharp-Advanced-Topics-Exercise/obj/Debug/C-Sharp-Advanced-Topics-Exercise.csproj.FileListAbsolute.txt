@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\C-Sharp-Advanced-Topics-Exercise\C-Sharp-Advanced-Topics-Exercise\bin\Debug\C-Sharp-Advanced-Topics-Exercise.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\C-Sharp-Advanced-Topics-Exercise\C-Sharp-Advanced-Topics-Exercise\bin\Debug\C-Sharp-Advanced-Topics-Exercise.exe
+c:\users\chefo\documents\visual studio 2013\Projects\C-Sharp-Advanced-Topics-Exercise\C-Sharp-Advanced-Topics-Exercise\bin\Debug\C-Sharp-Advanced-Topics-Exercise.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\C-Sharp-Advanced-Topics-Exercise\C-Sharp-Advanced-Topics-Exercise\obj\Debug\C-Sharp-Advanced-Topics-Exercise.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\C-Sharp-Advanced-Topics-Exercise\C-Sharp-Advanced-Topics-Exercise\obj\Debug\C-Sharp-Advanced-Topics-Exercise.exe
+c:\users\chefo\documents\visual studio 2013\Projects\C-Sharp-Advanced-Topics-Exercise\C-Sharp-Advanced-Topics-Exercise\obj\Debug\C-Sharp-Advanced-Topics-Exercise.pdb

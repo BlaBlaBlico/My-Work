@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Declaring-Variables\bin\Debug\Declaring-Variables.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Declaring-Variables\bin\Debug\Declaring-Variables.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Declaring-Variables\bin\Debug\Declaring-Variables.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Declaring-Variables\obj\Debug\Declaring-Variables.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Declaring-Variables\obj\Debug\Declaring-Variables.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Declaring-Variables\obj\Debug\Declaring-Variables.pdb

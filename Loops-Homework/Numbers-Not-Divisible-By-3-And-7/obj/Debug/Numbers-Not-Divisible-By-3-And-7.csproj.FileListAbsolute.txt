@@ -1,0 +1,5 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Numbers-Not-Divisible-By-3-And-7\bin\Debug\Numbers-Not-Divisible-By-3-And-7.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Numbers-Not-Divisible-By-3-And-7\bin\Debug\Numbers-Not-Divisible-By-3-And-7.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Numbers-Not-Divisible-By-3-And-7\bin\Debug\Numbers-Not-Divisible-By-3-And-7.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Numbers-Not-Divisible-By-3-And-7\obj\Debug\Numbers-Not-Divisible-By-3-And-7.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Numbers-Not-Divisible-By-3-And-7\obj\Debug\Numbers-Not-Divisible-By-3-And-7.pdb

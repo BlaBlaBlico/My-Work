@@ -1,0 +1,12 @@
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Prime-Number-Check\bin\Debug\Prime-Number-Check.exe.config
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Prime-Number-Check\bin\Debug\Prime-Number-Check.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Prime-Number-Check\bin\Debug\Prime-Number-Check.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Prime-Number-Check\obj\Debug\Prime-Number-Check.csprojResolveAssemblyReference.cache
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Prime-Number-Check\obj\Debug\Prime-Number-Check.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Prime-Number-Check\obj\Debug\Prime-Number-Check.pdb
+C:\Users\chefo\Documents\Visual Studio 2015\Projects\Operators-Expressions-Homework\Prime-Number-Check\bin\Debug\Prime-Number-Check.exe.config
+C:\Users\chefo\Documents\Visual Studio 2015\Projects\Operators-Expressions-Homework\Prime-Number-Check\obj\Debug\Prime-Number-Check.exe
+C:\Users\chefo\Documents\Visual Studio 2015\Projects\Operators-Expressions-Homework\Prime-Number-Check\obj\Debug\Prime-Number-Check.pdb
+C:\Users\chefo\Documents\Visual Studio 2015\Projects\Operators-Expressions-Homework\Prime-Number-Check\bin\Debug\Prime-Number-Check.exe
+C:\Users\chefo\Documents\Visual Studio 2015\Projects\Operators-Expressions-Homework\Prime-Number-Check\bin\Debug\Prime-Number-Check.pdb
+C:\Users\chefo\Documents\Visual Studio 2015\Projects\Operators-Expressions-Homework\Prime-Number-Check\obj\Debug\Prime-Number-Check.csprojResolveAssemblyReference.cache

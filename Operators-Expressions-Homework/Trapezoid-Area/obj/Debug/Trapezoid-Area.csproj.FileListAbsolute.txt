@@ -1,0 +1,5 @@
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

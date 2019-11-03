@@ -1,0 +1,6 @@
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bit-Exchange\bin\Debug\Bit-Exchange.exe.config
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bit-Exchange\bin\Debug\Bit-Exchange.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bit-Exchange\bin\Debug\Bit-Exchange.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bit-Exchange\obj\Debug\Bit-Exchange.csprojResolveAssemblyReference.cache
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bit-Exchange\obj\Debug\Bit-Exchange.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bit-Exchange\obj\Debug\Bit-Exchange.pdb

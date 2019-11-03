@@ -1,0 +1,5 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Dividing-By-7-And-5\bin\Debug\Dividing-By-7-And-5.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Dividing-By-7-And-5\bin\Debug\Dividing-By-7-And-5.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Dividing-By-7-And-5\bin\Debug\Dividing-By-7-And-5.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Dividing-By-7-And-5\obj\Debug\Dividing-By-7-And-5.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Dividing-By-7-And-5\obj\Debug\Dividing-By-7-And-5.pdb

@@ -1,0 +1,5 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Boolean-Variable\bin\Debug\Boolean-Variable.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Boolean-Variable\bin\Debug\Boolean-Variable.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Boolean-Variable\bin\Debug\Boolean-Variable.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Boolean-Variable\obj\Debug\Boolean-Variable.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Boolean-Variable\obj\Debug\Boolean-Variable.pdb

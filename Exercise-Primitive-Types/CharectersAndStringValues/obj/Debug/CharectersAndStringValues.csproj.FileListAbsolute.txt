@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\CharectersAndStringValues\bin\Debug\CharectersAndStringValues.exe.config
+C:\Users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\CharectersAndStringValues\obj\Debug\CharectersAndStringValues.csprojResolveAssemblyReference.cache
+C:\Users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\CharectersAndStringValues\bin\Debug\CharectersAndStringValues.exe
+C:\Users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\CharectersAndStringValues\bin\Debug\CharectersAndStringValues.pdb
+C:\Users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\CharectersAndStringValues\obj\Debug\CharectersAndStringValues.exe
+C:\Users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\CharectersAndStringValues\obj\Debug\CharectersAndStringValues.pdb

@@ -1,0 +1,6 @@
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Digit-As-Word\bin\Debug\Digit-As-Word.exe.config
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Digit-As-Word\bin\Debug\Digit-As-Word.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Digit-As-Word\bin\Debug\Digit-As-Word.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Digit-As-Word\obj\Debug\Digit-As-Word.csprojResolveAssemblyReference.cache
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Digit-As-Word\obj\Debug\Digit-As-Word.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Digit-As-Word\obj\Debug\Digit-As-Word.pdb

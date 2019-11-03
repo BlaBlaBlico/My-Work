@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Numbers-From-1-To-N\bin\Debug\Numbers-From-1-To-N.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Numbers-From-1-To-N\bin\Debug\Numbers-From-1-To-N.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Numbers-From-1-To-N\bin\Debug\Numbers-From-1-To-N.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Numbers-From-1-To-N\obj\Debug\Numbers-From-1-To-N.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Numbers-From-1-To-N\obj\Debug\Numbers-From-1-To-N.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Homework\Numbers-From-1-To-N\obj\Debug\Numbers-From-1-To-N.pdb

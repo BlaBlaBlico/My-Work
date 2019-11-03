@@ -1,0 +1,5 @@
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Extract-Bit-From-Integer\bin\Debug\Extract-Bit-From-Integer.exe.config
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Extract-Bit-From-Integer\bin\Debug\Extract-Bit-From-Integer.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Extract-Bit-From-Integer\bin\Debug\Extract-Bit-From-Integer.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Extract-Bit-From-Integer\obj\Debug\Extract-Bit-From-Integer.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Extract-Bit-From-Integer\obj\Debug\Extract-Bit-From-Integer.pdb

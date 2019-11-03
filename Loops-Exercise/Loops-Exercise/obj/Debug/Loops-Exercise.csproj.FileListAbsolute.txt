@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Exercise\Loops-Exercise\bin\Debug\Loops-Exercise.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Exercise\Loops-Exercise\bin\Debug\Loops-Exercise.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Exercise\Loops-Exercise\bin\Debug\Loops-Exercise.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Exercise\Loops-Exercise\obj\Debug\Loops-Exercise.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Exercise\Loops-Exercise\obj\Debug\Loops-Exercise.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Loops-Exercise\Loops-Exercise\obj\Debug\Loops-Exercise.pdb

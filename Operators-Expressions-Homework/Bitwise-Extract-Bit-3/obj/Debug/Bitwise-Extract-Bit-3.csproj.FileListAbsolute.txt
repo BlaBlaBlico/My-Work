@@ -1,0 +1,6 @@
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bitwise-Extract-Bit-3\bin\Debug\Bitwise-Extract-Bit-3.exe.config
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bitwise-Extract-Bit-3\bin\Debug\Bitwise-Extract-Bit-3.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bitwise-Extract-Bit-3\bin\Debug\Bitwise-Extract-Bit-3.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bitwise-Extract-Bit-3\obj\Debug\Bitwise-Extract-Bit-3.csprojResolveAssemblyReference.cache
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bitwise-Extract-Bit-3\obj\Debug\Bitwise-Extract-Bit-3.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Bitwise-Extract-Bit-3\obj\Debug\Bitwise-Extract-Bit-3.pdb

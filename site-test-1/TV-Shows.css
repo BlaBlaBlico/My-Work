@@ -1,0 +1,163 @@
+
+/* Header/Menu */
+header {
+    width: auto;
+    height: 40px;
+    background-color: #fefefe;
+    border-bottom: 1px solid #b2b2b2;
+    
+    font-family: sans-serif;
+    font-weight: 550;
+    
+    font-size: 20px;
+    padding-top: 7px;
+}
+
+.header ul {
+    padding: 0px;
+}
+
+.menu li {
+    display: inline;
+    padding: 4px; 
+}
+    
+.menu a {
+    text-decoration: none;
+    color: #b2b2b2;
+    text-transform: uppercase;
+}
+
+.menu a:hover {
+    color: #62e862;
+}
+
+.menu li:nth-child(2) a {
+    color: #62e862;
+}
+
+/* Body */
+.show-create {
+    margin-right: 31px;
+    margin-top: 15px;
+    
+    background-color: #f7f7f7;
+    
+    border: 1px solid #E1E1E1;
+    border-radius: 4px;
+}
+
+.show-overview {
+    margin-top: 15px;
+    
+    background-color: #f7f7f7;
+    
+    border: 1px solid #E1E1E1;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;    
+}
+
+.show-select {
+    margin-top: 15px;
+    
+    background-color: #f7f7f7;
+    
+    border: 1px solid #E1E1E1;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+/* Button(Add) */
+.show-create-button button {
+    margin: 10px 0px 10px 0px;
+    
+    color: white;
+    background: #b2b2b2;
+    text-transform: uppercase;
+    
+    border: none;
+}
+
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+
+.btn.disabled {
+    cursor: default;
+}
+
+.btn.disabled:hover {
+    background: #b2b2b2;
+}
+
+.btn.disabled:focus {
+    background: #b2b2b2;
+}
+
+.show-create-button button:hover {
+    color: white;
+    background: #62e862;
+    
+    border: none;
+}
+
+.show-create-button button:focus {
+    color: white;
+    background: #62e862;
+    
+    border: none;
+    outline: none;
+}
+
+/* Title(show-create) */
+.show-create-text h3 {
+    margin: 10px 0px 10px 0px;
+    
+    color: #62e862;
+}
+
+/* Form(label/input) */
+.show-create-form label {
+    color: #2d2d2d;
+}
+
+.show-create-form input[type=text] {
+    border-color: #b2b2b2;
+    padding-right: 25px;
+}
+
+.background {
+    background: url("http://i.imgur.com/Qtl2psH.png?1") no-repeat right 5px center;
+    background-size: 15px;
+    background-color: white;
+}
+
+.show-create-form input[type=text]:hover {
+    border-color: #62e862;
+}
+
+.show-create-form input[type=text]:focus {
+    border-color: #62e862;
+    box-shadow: none;
+}
+
+
+/* Title(show-select) */
+.show-select h4 {
+    padding: 0px;
+    margin: 10px 0px 5px 0px;
+    border-bottom: 1px solid #e1e1e1;
+    color: #62e862;
+}
+
+.show-select .shows {
+    clear: both;
+    margin: 0px 0px 5px 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.show-select li {
+    color: #b2b2b2;
+    margin-top: 3px;
+}

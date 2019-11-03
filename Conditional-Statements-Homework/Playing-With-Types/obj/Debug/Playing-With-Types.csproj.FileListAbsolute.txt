@@ -1,0 +1,6 @@
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Playing-With-Types\bin\Debug\Playing-With-Types.exe.config
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Playing-With-Types\bin\Debug\Playing-With-Types.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Playing-With-Types\bin\Debug\Playing-With-Types.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Playing-With-Types\obj\Debug\Playing-With-Types.exe
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Playing-With-Types\obj\Debug\Playing-With-Types.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Playing-With-Types\obj\Debug\Playing-With-Types.csprojResolveAssemblyReference.cache

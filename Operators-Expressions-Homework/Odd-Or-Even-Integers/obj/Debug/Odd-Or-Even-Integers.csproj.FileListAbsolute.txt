@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Odd-Or-Even-Integers\bin\Debug\Odd-Or-Even-Integers.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Odd-Or-Even-Integers\bin\Debug\Odd-Or-Even-Integers.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Odd-Or-Even-Integers\bin\Debug\Odd-Or-Even-Integers.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Odd-Or-Even-Integers\obj\Debug\Odd-Or-Even-Integers.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Odd-Or-Even-Integers\obj\Debug\Odd-Or-Even-Integers.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Odd-Or-Even-Integers\obj\Debug\Odd-Or-Even-Integers.pdb

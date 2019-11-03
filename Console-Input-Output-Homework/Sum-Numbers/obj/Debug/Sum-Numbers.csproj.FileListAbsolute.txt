@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Sum-Numbers\bin\Debug\Sum-Numbers.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Sum-Numbers\obj\Debug\Sum-Numbers.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Sum-Numbers\bin\Debug\Sum-Numbers.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Sum-Numbers\bin\Debug\Sum-Numbers.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Sum-Numbers\obj\Debug\Sum-Numbers.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Sum-Numbers\obj\Debug\Sum-Numbers.pdb

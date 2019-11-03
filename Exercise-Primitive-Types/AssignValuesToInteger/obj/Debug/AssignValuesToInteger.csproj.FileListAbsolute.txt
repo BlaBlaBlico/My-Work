@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\AssignValuesToInteger\bin\Debug\AssignValuesToInteger.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\AssignValuesToInteger\bin\Debug\AssignValuesToInteger.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\AssignValuesToInteger\bin\Debug\AssignValuesToInteger.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\AssignValuesToInteger\obj\Debug\AssignValuesToInteger.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\AssignValuesToInteger\obj\Debug\AssignValuesToInteger.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Exercise-Primitive-Types\AssignValuesToInteger\obj\Debug\AssignValuesToInteger.pdb

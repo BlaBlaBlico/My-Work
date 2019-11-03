@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Point-In-A-Circle\bin\Debug\Point-In-A-Circle.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Point-In-A-Circle\bin\Debug\Point-In-A-Circle.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Point-In-A-Circle\bin\Debug\Point-In-A-Circle.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Point-In-A-Circle\obj\Debug\Point-In-A-Circle.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Homework\Point-In-A-Circle\obj\Debug\Point-In-A-Circle.pdb
+C:\Users\chefo\Documents\Visual Studio 2013\Projects\Operators-Expressions-Homework\Point-In-A-Circle\obj\Debug\Point-In-A-Circle.csprojResolveAssemblyReference.cache

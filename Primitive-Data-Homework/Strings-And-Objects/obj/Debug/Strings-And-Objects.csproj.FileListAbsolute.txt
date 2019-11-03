@@ -1,0 +1,6 @@
+C:\Users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Strings-And-Objects\bin\Debug\Strings-And-Objects.exe.config
+C:\Users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Strings-And-Objects\bin\Debug\Strings-And-Objects.exe
+C:\Users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Strings-And-Objects\bin\Debug\Strings-And-Objects.pdb
+C:\Users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Strings-And-Objects\obj\Debug\Strings-And-Objects.csprojResolveAssemblyReference.cache
+C:\Users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Strings-And-Objects\obj\Debug\Strings-And-Objects.exe
+C:\Users\chefo\documents\visual studio 2013\Projects\Primitive-Data-Homework\Strings-And-Objects\obj\Debug\Strings-And-Objects.pdb

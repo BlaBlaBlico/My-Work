@@ -1,0 +1,6 @@
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Exercises\Average-Cal\bin\Debug\Average-Cal.exe.config
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Exercises\Average-Cal\bin\Debug\Average-Cal.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Exercises\Average-Cal\bin\Debug\Average-Cal.pdb
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Exercises\Average-Cal\obj\Debug\Average-Cal.csprojResolveAssemblyReference.cache
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Exercises\Average-Cal\obj\Debug\Average-Cal.exe
+c:\users\chefo\documents\visual studio 2013\Projects\Operators-Expressions-Exercises\Average-Cal\obj\Debug\Average-Cal.pdb
